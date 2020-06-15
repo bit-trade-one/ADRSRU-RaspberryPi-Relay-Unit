@@ -16,6 +16,8 @@ Raspberry Pi の GPIO に接続することで高電圧高電流な機器をコ�
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/adrsru/)!
 
+## [回路図](https://github.com/bit-trade-one/ADRSRU2-RaspberryPi-Relay-Unit/blob/master/Schematics/raspi_relay2_schematics.pdf)
+
 ## 製品仕様
 
 ADRSRUシリーズに搭載されているリレー群は以下のようにRaspberry PiのGPIOに結線されています。  
