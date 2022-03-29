@@ -3,7 +3,9 @@
 ## Raspberry Piで自宅の家電をスマート家電化！
 
 ![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2018/04/06cb28334cdc87dfe2b63b0253b9cec1.png)  
+2、4回路版
 ![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2018/05/ADRSRU8-MAIN.png)
+8回路版
 
 Raspberry Pi の GPIO に接続することで高電圧高電流な機器をコントロールすることが可能となるリレー制御拡張基板の登場です。  
 リレーユニットには信頼の SRD-05VDC-SL-Cを採用し、GPIOからの給電のみで制御が可能。  
