@@ -7,7 +7,7 @@ Raspberry Pi の GPIO に接続することで高電圧高電流な機器をコ�
 ADRSRUのサポートページです。
 
 
-## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/adrsru/)!
+## [製品HP](https://bit-trade-one.co.jp/product/module/adrsru/)
 
 ## 回路図
 
