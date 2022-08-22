@@ -9,6 +9,8 @@ ADRSRUのサポートページです。
 
 ## [製品HP](https://bit-trade-one.co.jp/product/module/adrsru/)
 
+## [中紙](https://github.com/bit-trade-one/ADRSRU-RaspberryPi-Relay-Unit/blob/master/in_paper/ADRSRU_%E4%B8%AD%E7%B4%99.pdf)
+
 ## 回路図
 
 ### [2回路版](https://github.com/bit-trade-one/ADRSRU2-RaspberryPi-Relay-Unit/blob/master/Schematics/raspi_relay2_schematics.pdf)
