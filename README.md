@@ -21,6 +21,8 @@ ADRSRUのサポートページです。
 
 ### [8回路版](https://github.com/bit-trade-one/ADRSRU-RaspberryPi-Relay-Unit/blob/master/Dimensions/ADRSRU8_outline.pdf)
 
+### [サンプルプログラム](https://github.com/bit-trade-one/ADRSRU-RaspberryPi-Relay-Unit/blob/master/sample/install.md)
+
 ## 製品仕様
 
 ADRSRUシリーズに搭載されているリレー群は以下のようにRaspberry PiのGPIOに結線されています。  
