@@ -42,7 +42,7 @@ GPIOの出力レベルLでNC側、出力レベルHでNO側に導通します。
 ## 基本仕様 
 型番：ADRSRU2 / ADRSRU4 /ADRSRU8  
 Raspberry Pi 用リレー制御拡張基板 2 回路 / 4 回路 / 8 回路   
-・【対応機種】Raspberry Pi Model B+／Raspberry Pi 2 Model B／Raspberry Pi 3 Model B   
+・【対応機種】Raspberry Pi Model B+ / Raspberry Pi 2 Model B  / Raspberry Pi 3 Model B / Raspberry Pi 4  / Raspberry Pi 5  
 ・【回路数】2 回路 / 4 回路 / 8 回路  
 ・【コンタクト定格電流】10A   
 ・【対応電圧/電流】AC 250V/10A, DC30V/10A   

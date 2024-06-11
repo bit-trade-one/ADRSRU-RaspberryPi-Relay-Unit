@@ -2,12 +2,13 @@
 ## filelist
 ・README.md 本文書  
 ・sample.py サンプルソース  
+・sample2.py Raspberry Pi 5サンプルソース  
 
 # サンプルプログラムのインストールについて
 
 
 ## ライブラリ関連のインストール
-
+**Rasyperry Pi 5では不要です**
 ```
 $ sudo apt-get update
 $ sudo apt-get install -y python-dev
@@ -18,7 +19,9 @@ sudo pip install RPi.GPIO
 
 ## 使用方法
 sample.pyを起動すると、1秒周期で4つのリレーを順にON/OFFします。
-使用するボード（2回路、4回路、8回路）に合わせて引数（2,4,8)を指定してください。
+使用するボード（2回路、4回路、8回路）に合わせて引数（2,4,8)を指定してください。  
+
+**Raspberry Pi 5の場合は、gpiozeroを使用したsample2.pyを実行してください。**
 ```
 $ python3 sample.py 4
 port on : 0
